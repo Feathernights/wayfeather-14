@@ -1174,3 +1174,10 @@ Entries:
   id: 6624
   time: '2026-01-31T01:04:22.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/403
+- author: drraccoony
+  changes:
+    - type: Add
+      message: Added additional Round Summary Data
+  id: 6625
+  time: '2026-01-31T01:30:33.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/405
