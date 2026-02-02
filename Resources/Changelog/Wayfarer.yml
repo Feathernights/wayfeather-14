@@ -1220,3 +1220,10 @@ Entries:
   id: 6630
   time: '2026-02-02T23:11:58.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/425
+- author: Eillyrea
+  changes:
+    - type: Tweak
+      message: Lowered/Removed a lot of the loadout unlock times
+  id: 6631
+  time: '2026-02-02T23:12:43.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/426
