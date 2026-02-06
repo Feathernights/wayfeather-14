@@ -1326,3 +1326,10 @@ Entries:
   id: 6644
   time: '2026-02-06T00:01:18.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/437
+- author: VVersengt
+  changes:
+    - type: Tweak
+      message: Tripled payout for medical bounties.
+  id: 6645
+  time: '2026-02-06T00:02:16.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/443
