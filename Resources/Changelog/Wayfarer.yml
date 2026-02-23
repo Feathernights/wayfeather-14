@@ -1595,3 +1595,10 @@ Entries:
   id: 6676
   time: '2026-02-23T16:40:43.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/514
+- author: Eillyrea
+  changes:
+    - type: Add
+      message: New Tugboat ship Mjolnir
+  id: 6677
+  time: '2026-02-23T16:41:45.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/512
