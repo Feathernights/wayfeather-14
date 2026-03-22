@@ -1692,3 +1692,10 @@ Entries:
   id: 6689
   time: '2026-03-10T21:50:44.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/537
+- author: DevArchwave
+  changes:
+    - type: Tweak
+      message: Dusk and the den both have unique music
+  id: 6690
+  time: '2026-03-22T18:05:07.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/532
