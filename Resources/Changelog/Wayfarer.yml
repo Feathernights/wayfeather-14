@@ -1785,3 +1785,17 @@ Entries:
   id: 6700
   time: '2026-04-04T06:27:14.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/544
+- author: Goodfaun
+  changes:
+    - type: Add
+      message: >-
+        Guidebooks entries for beater, buckler, dagger, dioddef, hamger,
+        hamerhead, heater, kite, looter, medivac, parma, phalanx, pridwen,
+        qauata, ratrod, reclaimer, scryer, svalinn, swan
+    - type: Add
+      message: Guidebook entries for each shipyard console
+    - type: Tweak
+      message: some mention of NT in guidebook entries.
+  id: 6701
+  time: '2026-04-04T17:39:26.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/548
