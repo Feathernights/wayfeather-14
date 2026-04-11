@@ -1864,3 +1864,10 @@ Entries:
   id: 6708
   time: '2026-04-11T23:09:01.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/562
+- author: VVersengt
+  changes:
+    - type: Fix
+      message: Fix Autonomous Hauler taking players with it when it leaves.
+  id: 6709
+  time: '2026-04-11T23:25:53.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/565
