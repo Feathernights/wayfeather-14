@@ -1887,3 +1887,12 @@ Entries:
   id: 6711
   time: '2026-04-14T03:55:55.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/571
+- author: TheSlapper
+  changes:
+    - type: Add
+      message: >-
+        Minor future-proofing of loadout inheritances in Civilian, Medical, and
+        Engineering roles.
+  id: 6712
+  time: '2026-04-14T03:57:06.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/576
