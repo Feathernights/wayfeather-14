@@ -1949,3 +1949,14 @@ Entries:
   id: 6719
   time: '2026-04-17T19:51:45.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/591
+- author: VVersengt
+  changes:
+    - type: Add
+      message: Added Tactical Maid outfit and hardsuits to Loadout Menu
+    - type: Tweak
+      message: Cleaned up ammo groups.
+    - type: Tweak
+      message: Buffed Energy Pickaxe
+  id: 6720
+  time: '2026-04-17T19:52:55.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/590
