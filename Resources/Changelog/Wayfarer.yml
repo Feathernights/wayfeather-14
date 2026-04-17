@@ -1926,3 +1926,10 @@ Entries:
   id: 6716
   time: '2026-04-16T23:08:31.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/581
+- author: drraccoony
+  changes:
+    - type: Add
+      message: Added Height/Width Custom sliders in Character Setup.
+  id: 6717
+  time: '2026-04-17T19:50:52.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/583
