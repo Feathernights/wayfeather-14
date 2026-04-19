@@ -114,7 +114,7 @@
     damage:
       types:
         Heat: 4
-        Blunt: 6
+        Blunt: 12 # WF Change - 6 -> 12 So they can hurt you harder
         Structural: 20
     soundHit:
       collection: MetalThud
@@ -135,6 +135,7 @@
       params:
         variation: 0.125
   - type: SoundWhileAlive
+  - type: NoSlip # WF Add - No Slipping the Silicons today!
 
 - type: entity
   parent:
@@ -758,7 +759,7 @@
     animation: WeaponArcPunch
     damage:
       types:
-        Blunt: 6
+        Blunt: 12 # WF Change - 6 -> 12 So they can hurt you harder
         Shock: 7
         Structural: 20
     soundHit:
@@ -998,7 +999,7 @@
       96: 0.7
       130: 0.5
   - type: HitscanBatteryAmmoProvider
-    proto: NFRedLaserPractice
+    proto: WFGuardianLaser # WF Change - NFRedLaserPractice to WFGuardianLaser
     fireCost: 10
   - type: Gun
     showExamineText: false
@@ -1079,7 +1080,7 @@
       144: 0.7
       192: 0.5
   - type: BasicEntityAmmoProvider
-    proto: NFBulletRocketMini # NFCartridgeRocketMini
+    proto: WFOnestarRocketMini # NFCartridgeRocketMini
     capacity: 10
     count: 10
   - type: Gun
