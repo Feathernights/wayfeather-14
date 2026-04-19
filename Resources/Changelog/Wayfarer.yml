@@ -2008,3 +2008,19 @@ Entries:
   id: 6726
   time: '2026-04-19T22:07:37.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/589
+- author: TheSlapper
+  changes:
+    - type: Add
+      message: >-
+        First iteration of the "Clown Training" trait. Found under the quirks
+        section. At the moment, it makes you giggle compulsively, and unlocks
+        clown related items in the loadout.
+    - type: Add
+      message: A system for locking loadout items behind trait selection.
+    - type: Add
+      message: >-
+        Added clown related items to the Wayfarer role loadout, and locked them
+        behind the clown trait.
+  id: 6727
+  time: '2026-04-19T22:09:40.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/593
