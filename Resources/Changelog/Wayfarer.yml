@@ -2066,3 +2066,10 @@ Entries:
   id: 6733
   time: '2026-04-21T22:25:40.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/611
+- author: RoY7x
+  changes:
+    - type: Add
+      message: Predictive Flashlights. They now follow the cursor in combat mode.
+  id: 6734
+  time: '2026-04-21T22:26:40.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/614
