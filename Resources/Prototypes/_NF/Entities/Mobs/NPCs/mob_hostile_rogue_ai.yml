@@ -6,7 +6,7 @@
   components:
   - type: HTN
     rootTask:
-       task: SimpleHostileCompound
+       task: N14HostileCompound
     blackboard:
       NavClimb: !type:Bool
         false
