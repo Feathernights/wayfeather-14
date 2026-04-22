@@ -15,7 +15,7 @@
     state: impact_laser
   maxLength: 21
 
-# Explosive
+# Explosives
 - type: entity
   parent: BaseBulletTrigger
   id: WFOnestarRocketMini # Tuned for the Rogue Silicon One Star Boss
@@ -28,10 +28,10 @@
     - state: grenade
   - type: ExplodeOnTrigger
   - type: Explosive
-    explosionType: Default
-    maxIntensity: 3 # max 15 per tile
-    intensitySlope: 1.5
-    totalIntensity: 9 # 30 total damage to distribute over tiles
+    explosionType: MicroBomb
+    maxIntensity: 2 # max 2 per tile
+    intensitySlope: 2
+    totalIntensity: 6 # 6 total damage to distribute over tiles
     maxTileBreak: 1
   - type: PointLight
     radius: 3.5
