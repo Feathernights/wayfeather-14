@@ -48,7 +48,7 @@
   - MobStaminaBoss # No stunning bots
   - BaseC3MobConstruct
   - MobNonHumanHostileBase
-  - MobHumanoidInvetory
+  - MobHumanoidInvetory #Wayfarer MobHumanoidInvetorySimplified -> MobHumanoidInventory
   - MobRogueSiliconAISimpleRanged
   #- MobLaserReflect # Added to prevent laser abuse from players
   - NFMobRestrictionsSilicon
