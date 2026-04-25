@@ -2161,3 +2161,16 @@ Entries:
   id: 6746
   time: '2026-04-24T18:21:30.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/626
+- author: Feathernights
+  changes:
+    - type: Tweak
+      message: Increased the damage on Silicon's Melee and the Boss units.
+    - type: Tweak
+      message: Silicons no longer slip on slippery objects/reagents/etc.
+    - type: Tweak
+      message: >-
+        Increased the resilience on the Guardian and One Star Unit, including
+        the Crit and Damage thresholds on the One Star.
+  id: 6747
+  time: '2026-04-25T01:08:58.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/604
