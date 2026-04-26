@@ -2262,3 +2262,10 @@ Entries:
   id: 6757
   time: '2026-04-26T07:47:39.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/635
+- author: drraccoony
+  changes:
+    - type: Fix
+      message: Fixed weird 0 friction in space
+  id: 6758
+  time: '2026-04-26T08:14:26.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/672
