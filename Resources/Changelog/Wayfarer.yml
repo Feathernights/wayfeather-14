@@ -2373,3 +2373,20 @@ Entries:
   id: 6770
   time: '2026-04-27T22:39:30.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/634
+- author: DevArchwave
+  changes:
+    - type: Add
+      message: >-
+        Added a colour picker and colour palette selector to the Spraypainter's
+        decal menu.
+    - type: Tweak
+      message: Made a few other tweaks to the Spraypainter's UI as well.
+    - type: Add
+      message: Added floral decals to the spraypainter.
+    - type: Add
+      message: >-
+        Added syndicate airlocks to the list of spray paintable airlocks
+        options.
+  id: 6771
+  time: '2026-04-27T23:09:52.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/692
