@@ -2316,3 +2316,10 @@ Entries:
   id: 6763
   time: '2026-04-26T21:27:29.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/632
+- author: Goodfaun
+  changes:
+    - type: Fix
+      message: Hauler guidebook
+  id: 6764
+  time: '2026-04-27T09:50:58.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/682
