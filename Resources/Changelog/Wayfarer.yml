@@ -2390,3 +2390,10 @@ Entries:
   id: 6771
   time: '2026-04-27T23:09:52.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/692
+- author: TheSlapper
+  changes:
+    - type: Tweak
+      message: (Miles) Improved the Elite Pirate Hardsuit's headlamp.
+  id: 6772
+  time: '2026-04-27T23:57:08.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/690
