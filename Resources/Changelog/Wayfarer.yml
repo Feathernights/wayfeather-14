@@ -2397,3 +2397,10 @@ Entries:
   id: 6772
   time: '2026-04-27T23:57:08.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/690
+- author: Khaomi
+  changes:
+    - type: Fix
+      message: Pat verb using bike horn sound
+  id: 6773
+  time: '2026-04-28T07:34:46.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/696
