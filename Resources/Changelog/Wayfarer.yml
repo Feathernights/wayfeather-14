@@ -2411,3 +2411,10 @@ Entries:
   id: 6774
   time: '2026-04-28T14:53:19.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/697
+- author: drraccoony
+  changes:
+    - type: Tweak
+      message: Ghosts wont hear notification pings
+  id: 6775
+  time: '2026-04-28T14:53:39.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/694
