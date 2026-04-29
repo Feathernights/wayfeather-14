@@ -2447,3 +2447,10 @@ Entries:
   id: 6778
   time: '2026-04-28T19:30:16.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/686
+- author: drraccoony
+  changes:
+    - type: Add
+      message: Ported IFF Coloring (One of my original features)
+  id: 6779
+  time: '2026-04-29T04:58:58.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/706
