@@ -2538,3 +2538,16 @@ Entries:
   id: 6787
   time: '2026-05-01T05:39:36.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/737
+- author: BlueSushii
+  changes:
+    - type: Add
+      message: Taxes to vendors that give to medical
+    - type: Remove
+      message: Edison no longer gets vault rewards
+    - type: Tweak
+      message: 'Smartfridges has 10x capacity '
+    - type: Tweak
+      message: CGP badge renaming to be correct
+  id: 6788
+  time: '2026-05-01T05:48:34.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/732
