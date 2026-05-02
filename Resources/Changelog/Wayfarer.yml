@@ -2614,3 +2614,12 @@ Entries:
   id: 6795
   time: '2026-05-01T07:00:09.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/745
+- author: Khaomi
+  changes:
+    - type: Tweak
+      message: >-
+        The Chemmaster 4000 can now switch between making pills from the
+        internal buffer or from an inserted beaker.
+  id: 6796
+  time: '2026-05-02T14:56:05.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/700
