@@ -2661,3 +2661,16 @@ Entries:
   id: 6800
   time: '2026-05-02T17:55:06.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/755
+- author: Lynx
+  changes:
+    - type: Add
+      message: >-
+        Adds the ability to place certain items on helmets and hard hats and
+        have them show!
+    - type: Add
+      message: >-
+        Adds engi goggles, flowers, cig packs, screwdrivers, lighters, and a few
+        more to the helmet whitelist! 
+  id: 6801
+  time: '2026-05-02T17:55:46.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/752
