@@ -2630,3 +2630,12 @@ Entries:
   id: 6797
   time: '2026-05-02T17:37:40.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/754
+- author: RoY7x
+  changes:
+    - type: Add
+      message: >-
+        Tree's now remove CO2 as well, mappers can now use tree's to also remove
+        CO2. Not just potted plants!
+  id: 6798
+  time: '2026-05-02T17:49:53.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/678
