@@ -2683,3 +2683,14 @@ Entries:
   id: 6802
   time: '2026-05-02T21:44:06.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/729
+- author: DevArchwave
+  changes:
+    - type: Tweak
+      message: Biogenerators can now accept produce with their magnets.
+    - type: Tweak
+      message: >-
+        Biogenerators can now be upgraded by RPEDs, when their maintenance panel
+        is open.
+  id: 6803
+  time: '2026-05-02T21:45:41.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/759
