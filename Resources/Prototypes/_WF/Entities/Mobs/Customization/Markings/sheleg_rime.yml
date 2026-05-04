@@ -2,7 +2,7 @@
   id: ShelegOverlayGlaze
   bodyPart: LLeg
   markingCategory: Overlay
-  # speciesRestriction: [Sheleg] -WF
+  # speciesRestriction: [Sheleg]
   layering:
     rime_glaze: LLeg
     rime_glaze-HANDS: RHand
@@ -23,7 +23,7 @@
   id: ShelegOverlayFrosty
   bodyPart: LLeg
   markingCategory: Overlay
-  # speciesRestriction: [Sheleg] -WF
+  # speciesRestriction: [Sheleg]
   layering:
     rime_frosty: LLeg
     rime_frosty-HANDS: RHand
@@ -44,7 +44,7 @@
   id: ShelegOverlaySubzero
   bodyPart: LLeg
   markingCategory: Overlay
-  # speciesRestriction: [Sheleg] -WF
+  # speciesRestriction: [Sheleg]
   layering:
     rime_subzero: LLeg
     rime_subzero-HANDS: RHand

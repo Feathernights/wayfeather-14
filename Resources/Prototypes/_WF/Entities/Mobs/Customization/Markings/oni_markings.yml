@@ -3,7 +3,7 @@
   id: OniWarpaintJaw
   bodyPart: Head
   markingCategory: Head
-  # speciesRestriction: [Oni] -WF
+  # speciesRestriction: [Oni]
   coloring:
     default:
       type:
@@ -17,7 +17,7 @@
   id: OniWarpaintSkull
   bodyPart: Head
   markingCategory: Head
-  # speciesRestriction: [Oni] -WF
+  # speciesRestriction: [Oni]
   coloring:
     default:
       type:
@@ -31,7 +31,7 @@
   id: OniWarpaintDome
   bodyPart: Head
   markingCategory: Head
-  # speciesRestriction: [Oni] -WF
+  # speciesRestriction: [Oni]
   coloring:
     default:
       type:
@@ -46,7 +46,7 @@
   id: OniOverlayAshenDust
   bodyPart: LLeg
   markingCategory: Overlay
-  # speciesRestriction: [Oni] -WF
+  # speciesRestriction: [Oni]
   layering:
     ashendust: LLeg
     ashendust-HANDS: RHand
@@ -67,7 +67,7 @@
   id: OniOverlayImpBinds
   bodyPart: LLeg
   markingCategory: Overlay
-  # speciesRestriction: [Oni] -WF
+  # speciesRestriction: [Oni]
   coloring:
     default:
       type:
