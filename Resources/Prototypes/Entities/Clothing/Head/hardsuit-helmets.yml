@@ -1083,14 +1083,14 @@
       - state: equipped-head-unshaded-vox
         shader: unshaded
     # Wayfarer Start
-    head-feroxi:
-    - state: equipped-head-feroxi
-    - state: equipped-head-unshaded-feroxi
-      shader: unshaded
-    head-vulpkanin:
-    - state: equipped-head-vulpkanin
-    - state: equipped-head-unshaded-vulpkanin
-      shader: unshaded
+      head-feroxi:
+      - state: equipped-head-feroxi
+      - state: equipped-head-unshaded-feroxi
+        shader: unshaded
+      head-vulpkanin:
+      - state: equipped-head-vulpkanin
+      - state: equipped-head-unshaded-vulpkanin
+        shader: unshaded
     # Wayfarer End
   - type: PointLight
     color: orange
