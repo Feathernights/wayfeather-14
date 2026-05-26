@@ -654,6 +654,24 @@
       - sprite: _WF/Clothing/Head/Hardsuits/syndicate.rsi
         state: on-equipped-HELMET-light-dog
         shader: unshaded
+      # Wayfarer Start
+      head-avali:
+      - sprite: _WF/Clothing/Head/Hardsuits/syndicate.rsi
+        state: on-equipped-HELMET-light-avali
+        shader: unshaded
+      head-avox:
+      - sprite: _WF/Clothing/Head/Hardsuits/syndicate.rsi
+        state: on-equipped-HELMET-light-avox
+        shader: unshaded
+      head-feroxi:
+      - sprite: _WF/Clothing/Head/Hardsuits/syndicate.rsi
+        state: on-equipped-HELMET-light-feroxi
+        shader: unshaded
+      head-reptilian:
+      - sprite: _WF/Clothing/Head/Hardsuits/syndicate.rsi
+        state: on-equipped-HELMET-light-reptilian
+        shader: unshaded
+      # Wayfarer End
   - type: PointLight
     color: green
     energy: 10 # Wayfarer: make the light actually useable
@@ -699,6 +717,24 @@
       - sprite: _WF/Clothing/Head/Hardsuits/syndiemedic.rsi
         state: on-equipped-HELMET-light-vulpkanin
         shader: unshaded
+      # Wayfarer Start
+      head-avali:
+      - sprite: _WF/Clothing/Head/Hardsuits/syndiemedic.rsi
+        state: on-equipped-HELMET-light-avali
+        shader: unshaded
+      head-avox:
+      - sprite: _WF/Clothing/Head/Hardsuits/syndiemedic.rsi
+        state: on-equipped-HELMET-light-avox
+        shader: unshaded
+      head-feroxi:
+      - sprite: _WF/Clothing/Head/Hardsuits/syndiemedic.rsi
+        state: on-equipped-HELMET-light-feroxi
+        shader: unshaded
+      head-reptilian:
+      - sprite: _WF/Clothing/Head/Hardsuits/syndiemedic.rsi
+        state: on-equipped-HELMET-light-reptilian
+        shader: unshaded
+      # Wayfarer End
   - type: PointLight
     color: green
     energy: 10 # Wayfarer: make the light actually useable
@@ -744,6 +780,24 @@
       - sprite: _WF/Clothing/Head/Hardsuits/syndieelite.rsi
         state: on-equipped-HELMET-light-dog
         shader: unshaded
+      # Wayfarer Start
+      head-avali:
+      - sprite: _WF/Clothing/Head/Hardsuits/syndieelite.rsi
+        state: on-equipped-HELMET-light-avali
+        shader: unshaded
+      head-avox:
+      - sprite: _WF/Clothing/Head/Hardsuits/syndieelite.rsi
+        state: on-equipped-HELMET-light-avox
+        shader: unshaded
+      head-feroxi:
+      - sprite: _WF/Clothing/Head/Hardsuits/syndieelite.rsi
+        state: on-equipped-HELMET-light-feroxi
+        shader: unshaded
+      head-reptilian:
+      - sprite: _WF/Clothing/Head/Hardsuits/syndieelite.rsi
+        state: on-equipped-HELMET-light-reptilian
+        shader: unshaded
+      # Wayfarer End
   - type: PointLight
     color: red
     energy: 10 # Wayfarer: make the light actually useable
@@ -798,6 +852,24 @@
       - sprite: _WF/Clothing/Head/Hardsuits/syndiecommander.rsi
         state: on-equipped-HELMET-light-dog
         shader: unshaded
+      # Wayfarer Start
+      head-avali:
+      - sprite: _WF/Clothing/Head/Hardsuits/syndiecommander.rsi
+        state: on-equipped-HELMET-light-avali
+        shader: unshaded
+      head-avox:
+      - sprite: _WF/Clothing/Head/Hardsuits/syndiecommander.rsi
+        state: on-equipped-HELMET-light-avox
+        shader: unshaded
+      head-feroxi:
+      - sprite: _WF/Clothing/Head/Hardsuits/syndiecommander.rsi
+        state: on-equipped-HELMET-light-feroxi
+        shader: unshaded
+      head-reptilian:
+      - sprite: _WF/Clothing/Head/Hardsuits/syndiecommander.rsi
+        state: on-equipped-HELMET-light-reptilian
+        shader: unshaded
+      # Wayfarer End
   - type: PointLight
     color: green
     energy: 10 # Wayfarer: make the light actually useable
