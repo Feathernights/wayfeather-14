@@ -38,7 +38,7 @@
       map: [ "cardUnshadedIconEmpty" ]
       color: "#35383B"
       shader: unshaded
-    # Wayfarer End
+    # End Wayfarer
   - type: Clothing
     clothingVisuals:
       neck:
@@ -72,7 +72,7 @@
         components:
         - Blueprint
   - type: ItemSlots
-  # Wayfarer End
+  # End Wayfarer
 
 # region medic
 - type: entity
@@ -93,7 +93,7 @@
       map: [ "cardUnshadedIconEmpty" ]
       color: "#62717a"
       shader: unshaded
-    # Wayfarer End
+    # End Wayfarer
   - type: Clothing
     clothingVisuals:
       neck:
@@ -126,7 +126,7 @@
         components:
         - Blueprint
   - type: ItemSlots
-  # Wayfarer End
+  # End Wayfarer
 
 # region nfsd writ/permit
 - type: entity
@@ -141,7 +141,7 @@
       color: "#63492a"
     - state: icon-unshaded
       map: ["cardUnshadedIconDocument"]
-      color: "#ab6722" # Wayfarer: Changed #59784b to #ab6722
+      color: "#ab6722" # Wayfarer: Changed #59784b<#ab6722
       shader: unshaded
     - state: icon-unshaded
       map: ["cardUnshadedIconEmpty"]
@@ -154,7 +154,7 @@
         color: "#63492a"
       - state: equipped-NECK-unshaded
         shader: unshaded
-        color: "#ab6722" # Wayfarer: Changed #59784b to #ab6722
+        color: "#ab6722" # Wayfarer: Changed #59784b<#ab6722
   - type: ContainerContainer
     containers:
       paper_label: !type:ContainerSlot
