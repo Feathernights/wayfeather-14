@@ -486,6 +486,8 @@
       - state: equipped-head-light-avali
         shader: unshaded
       # Starlight - End
+      head-cat:
+      - state: equipped-head-light-cat
       # Wayfarer Start
       head-feroxi:
       - state: equipped-head-light-feroxi
@@ -501,6 +503,10 @@
       head:
       - state: equipped-head
       - state: equipped-head-unshaded
+        shader: unshaded
+      head-cat:
+      - state: equipped-head-cat
+      - state: equipped-head-unshaded-cat
         shader: unshaded
       head-vox:
       - state: equipped-head-vox
@@ -525,6 +531,8 @@
       - state: equipped-head-vulpkanin
       - state: equipped-head-unshaded-vulpkanin
         shader: unshaded
+  - type: FlashImmunity # Wayfarer
+  - type: EyeProtection # Wayfarer
       # Wayfarer End
   - type: PointLight
     color: "#daffad"
@@ -537,6 +545,7 @@
     tags:
     - CorgiWearable
     - WhitelistChameleon
+  - type: CatWearable # Frontier
 
 #Chief Medical Officer's Hardsuit
 - type: entity
@@ -570,6 +579,10 @@
     sprite: Clothing/Head/Hardsuits/rd.rsi
   - type: Clothing
     sprite: Clothing/Head/Hardsuits/rd.rsi
+  # Wayfarer Start
+  - type: FlashImmunity # Wayfarer
+  - type: EyeProtection # Wayfarer
+  # End Wayfarer
   - type: PointLight
     color: "#d6adff"
   - type: PressureProtection
