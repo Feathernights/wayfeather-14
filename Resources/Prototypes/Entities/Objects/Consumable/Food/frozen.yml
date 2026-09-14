@@ -427,8 +427,4 @@
     - WFStickFood # Wayfarer
   - type: SpaceGarbage
   - type: GoblinPreciousTrash # Frontier
-  # Wayfarer: Corndog Making
-  - type: Construction
-    graph: RawCorndog
-    node: start
-  # End Wayfarer
+

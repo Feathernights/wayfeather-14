@@ -7,6 +7,11 @@
   - type: Sprite
     sprite: _WF/Objects/Consumable/Food/ingredients.rsi
     state: sausage-battered
+  - type: EmitSoundOnLand
+    sound:
+      path: /Audio/Voice/Slime/slime_squish.ogg
+      params:
+        volume: -5
   - type: FlavorProfile
     flavors:
     - meaty
@@ -31,6 +36,11 @@
   - type: Sprite
     sprite: _WF/Objects/Consumable/Food/ingredients.rsi
     state: potato-mashed
+  - type: EmitSoundOnLand
+    sound:
+      path: /Audio/Voice/Slime/slime_squish.ogg
+      params:
+        volume: -5
   - type: FlavorProfile
     flavors:
     - potatoes
