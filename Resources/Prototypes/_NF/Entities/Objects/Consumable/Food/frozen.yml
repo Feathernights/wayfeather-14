@@ -7,7 +7,7 @@
   - type: Sprite
     layers:
     - state: stick
-    - state: licorice # TODO: rename this or migrate & rename if deleted
+    - state: licorice # Wayfarer 
   - type: Edible
     trash:
     - FoodFrozenPopsicleTrash
