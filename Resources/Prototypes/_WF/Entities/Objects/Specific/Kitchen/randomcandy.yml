@@ -65,7 +65,7 @@
 
 - type: entity
   name: mystery candy
-  parent: Pill
+  parent: [ BaseItem, RecyclableItemNoMats ]
   id: CandyMystery
   description: Halloween's spirit and mystery, all contained inside this wrapped candy! I wonder what flavor this is?
   components:
@@ -76,6 +76,9 @@
   - type: RandomFillSolution
     solution: food
     weightedRandomId: RandomFillCandy
+  - type: Item
+    size: Tiny
+    sprite: _WF/Objects/Consumable/Food/mysterycandy.rsi
   - type: Sprite
     sprite: _WF/Objects/Consumable/Food/mysterycandy.rsi
     layers:
@@ -88,3 +91,34 @@
           candy2: ""
           candy3: ""
           candy4: ""
+  - type: Edible
+    delay: 0.6
+    forceFeedDelay: 2
+    transferAmount: null
+    edible: Pill
+  - type: BadFood
+  - type: FlavorProfile
+    ignoreReagents: [ ]
+  - type: ExplosionResistance
+    damageCoefficient: 0.025 # survives conventional explosives but not minibombs and nukes
+  - type: Damageable
+    damageContainer: Inorganic
+  - type: Destructible
+    thresholds:
+    - trigger:
+        !type:DamageTrigger
+        damage: 10
+      behaviors:
+      - !type:SpillBehavior
+        solution: food
+      - !type:DoActsBehavior
+        acts: [ "Destruction" ]
+  - type: SolutionSpiker
+    sourceSolution: food
+  - type: Extractable
+    grindableSolutionName: food
+  - type: StaticPrice
+    price: 0
+  - type: Tag
+    tags:
+    - Pill
