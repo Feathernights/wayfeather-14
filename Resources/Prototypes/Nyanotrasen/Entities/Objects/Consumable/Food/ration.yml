@@ -22,6 +22,11 @@
     state: psb
   - type: Item
     size: Tiny
+  # Wayfarer: So that it can be put in a Candy Bucket
+  - type: Tag
+    tags:
+    - FoodSnack
+  # End Wayfarer
   - type: SpawnItemsOnUse
     items:
       - id: FoodPSBTrash
