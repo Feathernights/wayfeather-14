@@ -130,7 +130,7 @@
   id: NFWeaponEnergyRifleSniperXrayCannonRecipe
   result: NFWeaponEnergyRifleSniperXrayCannon
   materials:
-    OutlawData: 1
+    OutlawData: 3
     Steel: 1200
     Plastic: 2000
     Plasteel: 1200
@@ -143,7 +143,7 @@
   id: NFWeaponEnergyRifleTemperatureRecipe
   result: NFWeaponEnergyRifleTemperature
   materials:
-    OutlawData: 1
+    OutlawData: 2
     Steel: 1500
     Plastic: 2000
     Plasteel: 1500
@@ -155,7 +155,7 @@
   id: NFWeaponShotgunBulldogRecipe
   result: NFWeaponShotgunBulldog
   materials:
-    OutlawData: 1
+    OutlawData: 2
     Steel: 2500
     Plastic: 1500
     Plasteel: 1500
@@ -401,7 +401,7 @@
 - type: latheRecipe
   parent: NFBaseToolsRecipe
   id: HypopenRecipe
-  result: Hypopen
+  result: HypopenBox
   materials:
     OutlawData: 1
     Steel: 200
@@ -463,7 +463,7 @@
   id: ClothingOuterHardsuitSyndieEliteRecipe
   result: ClothingOuterHardsuitSyndieElite
   materials:
-    CGPCredit: 1
+    OutlawData: 3
     Glass: 1000
     Plastic: 2000
     Durathread: 2000
@@ -576,6 +576,13 @@
     state: chits
   materials:
     OutlawData: 1
+
+- type: latheRecipe
+  parent: BaseDecryptRecipe
+  id: RecipeDecryptCobra
+  result: WFBlueprintCobra
+  materials:
+    OutlawData: 12
 
 - type: latheRecipe
   parent: BaseDecryptRecipe

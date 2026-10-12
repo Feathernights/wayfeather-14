@@ -53,7 +53,7 @@
   id: WFBlueprintOutlawSMG
   categories: [ HideSpawnMenu ]
   name: smg blueprint
-  description: A blueprint with a schematic of various SMG's.
+  description: A blueprint with a schematic of a C20, and Atreides.
   components:
   - type: Blueprint
     providedRecipes:
@@ -65,7 +65,7 @@
   id: WFBlueprintOutlawRifles
   categories: [ HideSpawnMenu ]
   name: rifle blueprint
-  description: A blueprint with a schematic of various rifles.
+  description: A blueprint with a schematic of a Soland Moss, and M90.
   components:
   - type: Blueprint
     providedRecipes:
@@ -77,7 +77,7 @@
   id: WFBlueprintOutlawLasers
   categories: [ HideSpawnMenu ]
   name: advanced laser weapons blueprint
-  description: A blueprint with a schematic of various laser weapons.
+  description: A blueprint with a schematic of an x-ray cannon, temperature gun, and advanced laser pistol.
   components:
   - type: Blueprint
     providedRecipes:
@@ -154,7 +154,7 @@
   id: WFBlueprintOutlawMedical
   categories: [ HideSpawnMenu ]
   name: black market medical blueprint
-  description: A blueprint with a schematic of various illegal medical tools.
+  description: A blueprint with a schematic of an interdyne defibrilator, and advanced circular saw.
   components:
   - type: Blueprint
     providedRecipes:
@@ -166,7 +166,7 @@
   id: WFBlueprintOutlawHyposprays
   categories: [ HideSpawnMenu ]
   name: black market hyposprays blueprint
-  description: A blueprint with a schematic of various illegal hyposprays.
+  description: A blueprint with a schematic of a hypopen, and black market hypospray.
   components:
   - type: Blueprint
     providedRecipes:
@@ -180,7 +180,7 @@
   id: WFBlueprintOutlawEnergyWeapons
   categories: [ HideSpawnMenu ]
   name: energy weapons blueprint
-  description: A blueprint with a schematic of various energy weapons.
+  description: A blueprint with a schematic of various plasma-based energy weapons.
   components:
   - type: Blueprint
     providedRecipes:

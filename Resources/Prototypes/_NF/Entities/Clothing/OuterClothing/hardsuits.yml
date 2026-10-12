@@ -121,7 +121,7 @@
   - ClothingOuterHardsuitSyndie
   - ContrabandClothing
   id: ClothingOuterHardsuitSyndieEliteUnremoveable
-  name: syndicate hardsuit
+  name: old ops hardsuit # Wayfarer: Syndicate<Old Ops
   categories: [ HideSpawnMenu ]
   components:
   - type: Unremoveable
@@ -135,7 +135,7 @@
   - ClothingOuterHardsuitSyndie
   - ContrabandClothing
   id: ClothingOuterHardsuitSyndieBloodRedUnremoveable
-  name: syndicate hardsuit
+  name: spinel hardsuit # Wayfarer: Syndicate<spinel
   categories: [ HideSpawnMenu ]
   components:
   - type: Unremoveable
@@ -229,7 +229,7 @@
     clothingPrototype: ClothingHeadHelmetHardsuitNfsdBrigmedic
 
 - type: entity
-  parent: [BaseCGPContraband, ClothingOuterHardsuitJuggernaut] # Wayfarer: BaseC2ContrabandUnredeemable<BaseCGPContraband
+  parent: [BaseCGPContraband, ClothingOuterHardsuitBaseNFNfsd] # Wayfarer: BaseC2ContrabandUnredeemable<BaseCGPContraband
   id: ClothingOuterHardsuitNfsdExperimental
   name: CGP experimental combat suit
   description: An Experimental CGP Combat Suit. It is fitted specifically to counter environmental threats while still providing a good degree of protection from conventional weaponry. # Wayfarer: Changed description
@@ -250,10 +250,10 @@
   - type: Armor
     modifiers:
       coefficients:
-        Blunt: 0.6 # Wayfarer: 0.2<0.6
-        Slash: 0.6 # Wayfarer: 0.2<0.6
-        Piercing: 0.6 # Wayfarer: 0.2<0.6
-        Heat: 0.25 # Wayfarer: 0.2<0.25
+        Blunt: 0.65 # Wayfarer: 0.2<0.65
+        Slash: 0.65 # Wayfarer: 0.2<0.65
+        Piercing: 0.65 # Wayfarer: 0.2<0.65
+        Heat: 0.35   # Wayfarer: 0.2<0.35
         Radiation: 0.2 # Wayfarer: 0.2<0.2
         Caustic: 0.25 # Wayfarer: 0.2<0.25
   - type: ClothingSpeedModifier
@@ -551,7 +551,7 @@
   parent: ClothingOuterHardsuitBaseNF
   id: ClothingOuterHardsuitNoble
   name: noble combat suit
-  description: What is your quarrel today oh brave hero? Do you seek a dragon? Maybe you pursue an ascended cultist? Or do you plan to put an end to the syndicates machinations? Whatever the job, the Noble has you.
+  description: What is your quarrel today oh brave hero? Do you seek a dragon? Maybe you pursue an ascended cultist? Or do you plan to put an end to the Coldlight Wolves' infiltration? Whatever the job, the Noble has you. # Wayfarer: changed description
   components:
   - type: Sprite
     sprite: _NF/Clothing/OuterClothing/Hardsuits/noble.rsi

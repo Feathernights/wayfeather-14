@@ -2,6 +2,7 @@
   id: WFDecryptStatic
   recipes:
 #  - RecipeDecryptLow
+  - RecipeDecryptCobra
   - RecipeDecryptEnergy
   - RecipeDecryptSMG
   - RecipeDecryptRifles

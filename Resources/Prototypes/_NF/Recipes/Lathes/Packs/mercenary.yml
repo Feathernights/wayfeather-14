@@ -94,6 +94,7 @@
   - NFSpeedLoaderPistol35Empty
   - NFSpeedLoaderPistol45Empty
   - MagazineAsmgtUniversalEmpty
+  - NFMagazineShotgunDrumEmptyRecipe # Wayfarer
   - NFMagazineClipRifle20Empty
 
 - type: latheRecipePack

@@ -169,10 +169,21 @@
     
 - type: latheRecipe
   parent: BaseWeaponRecipeLong
+  id: WeaponEmpEmitterRecipe
+  result: WeaponEmpEmitter
+  materials:
+    CGPCredit: 1
+    Steel: 1500
+    Plasteel: 500
+    Glass: 500
+    Plasma: 500
+
+- type: latheRecipe
+  parent: BaseWeaponRecipeLong
   id: NFWeaponLauncherRocketEmpRecipe
   result: NFWeaponLauncherRocketEmp
   materials:
-    CGPCredit: 1
+    CGPCredit: 3
     Steel: 4500
     Plasteel: 3000
     Plastic: 2000
@@ -182,7 +193,7 @@
   id: WFWeaponCGPEnergyShotgunRecipe
   result: WFWeaponCGPEnergyShotgun
   materials:
-    CGPCredit: 1
+    CGPCredit: 3
     Steel: 500
     Plastic: 1500
     Plasteel: 2000
@@ -193,7 +204,7 @@
   id: NFWeaponEnergyRifleSniperCannonRecipe
   result: NFWeaponEnergyRifleSniperCannon
   materials:
-    CGPCredit: 2
+    CGPCredit: 3
     Plastic: 3500
     Steel: 2000
     Plasteel: 1000
@@ -204,7 +215,7 @@
   id: NFWeaponRifleSniperAspectRecipe
   result: NFWeaponRifleSniperAspect
   materials:
-    CGPCredit: 2
+    CGPCredit: 3
     Steel: 2000
     Plasteel: 2500
     Plastic: 1500
