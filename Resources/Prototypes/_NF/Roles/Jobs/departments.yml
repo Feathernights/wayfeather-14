@@ -7,7 +7,7 @@
   roles:
   - StationRepresentative
 #  - DirectorOfCare #WF moved to medical
-  - StationTrafficController
+#  - StationTrafficController
   - Valet # nyano
   - StationStaff #Wayfarer
   - NFJanitor

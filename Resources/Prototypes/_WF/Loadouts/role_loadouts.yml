@@ -75,32 +75,33 @@
   - WFLongarm
   - WFAmmo
 
-- type: roleLoadout
-  id: JobStationTrafficController
-  groups:
-  - StcHead
-  - WFNeck
-  - StcJumpsuit
-  - ContractorGloves
-  - WFBackpack
-  - WFOuterClothing
-  - StcForcedOuterClothing
-  - StcShoes
-  - WFFace
-  - StcGlasses
-  - WFBelt
-  - StcEars
-  - WFBoxSurvival
-  - WFWallet
-  - WFCartridge
-  - WFImplanter
-  - WFBackpackItems
-  - WFHandItems
-  - ContractorSupportPets
-  - NFSpeciesSpecific
-  - WFSidearm
-  - WFLongarm
-  - WFAmmo
+# DEPRECATED: STC IS KILL
+#- type: roleLoadout
+#  id: JobStationTrafficController
+#  groups:
+#  - StcHead
+#  - WFNeck
+#  - StcJumpsuit
+#  - ContractorGloves
+#  - WFBackpack
+#  - WFOuterClothing
+#  - StcForcedOuterClothing
+#  - StcShoes
+#  - WFFace
+#  - StcGlasses
+#  - WFBelt
+#  - StcEars
+#  - WFBoxSurvival
+#  - WFWallet
+#  - WFCartridge
+#  - WFImplanter
+#  - WFBackpackItems
+#  - WFHandItems
+#  - ContractorSupportPets
+#  - NFSpeciesSpecific
+#  - WFSidearm
+#  - WFLongarm
+#  - WFAmmo
 
 - type: roleLoadout
   id: JobStationRepresentative
