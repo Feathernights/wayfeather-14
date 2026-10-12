@@ -14,7 +14,7 @@
     primingSound:
       path: /Audio/Effects/Smoke-grenade.ogg
       
-﻿- type: entity
+- type: entity
   id: AdminInstantEffectCleanade
   suffix: Cleanade
   parent: AdminInstantEffectBase
