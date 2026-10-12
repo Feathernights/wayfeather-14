@@ -6899,3 +6899,98 @@ Entries:
   id: 7284
   time: '2026-10-05T02:32:48.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1638
+- author: Hawk-v3
+  changes:
+    - type: Add
+      message: >-
+        Added a craftable Apprentice Stave equal to a laser pistol for the
+        Aspiring Mage or Esoteric Researcher!
+  id: 7285
+  time: '2026-10-12T01:50:59.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1624
+- author: TheSlapper
+  changes:
+    - type: Add
+      message: >-
+        New objective, Ship Theft. Outlaws can use the new "Forge deed" option
+        on a target's shuttle console, dock the ship at Perdition, insert the
+        forged deed into the black market shipyard console and sell the ship to
+        complete it.
+    - type: Add
+      message: >-
+        New objective, Ship Damage. Outlaws complete it by destroying part of a
+        target's ship, namely walls, machines, furniture and anything else that
+        can be destroyed. Ship cannons, explosives, weapons and deconstruction
+        all count.
+    - type: Tweak
+      message: >-
+        Objectives now activate one at a time per player, every one to two
+        hours, and only while that player is online.
+    - type: Tweak
+      message: >-
+        The critical condition and round removal objectives can no longer be
+        taken together.
+    - type: Fix
+      message: >-
+        Interview holograms no longer spawn an extra data drive for the theft
+        objective.
+  id: 7286
+  time: '2026-10-12T02:02:06.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1626
+- author: CloudOfNeutronFlux
+  changes:
+    - type: Add
+      message: >-
+        Added Nadir: A premium "science" vessel made with crew comfort in mind
+        (*wink)
+  id: 7287
+  time: '2026-10-12T02:07:29.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1634
+- author: Goodfaun
+  changes:
+    - type: Add
+      message: Admin spawn effects cleanade, spacelube, spaceglue
+  id: 7288
+  time: '2026-10-12T02:12:33.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1639
+- author: CloudOfNeutronFlux
+  changes:
+    - type: Tweak
+      message: >-
+        Changed SWS Zenith: added an office space to the lobby, moved the server
+        to the bridge, adjusted buttons and the guidebook.
+  id: 7289
+  time: '2026-10-12T02:20:44.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1644
+- author: Goodfaun
+  changes:
+    - type: Fix
+      message: player corporation station airlocks and grid file
+  id: 7290
+  time: '2026-10-12T02:22:14.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1645
+- author: TheSlapper
+  changes:
+    - type: Add
+      message: CentComm Official spawn command
+  id: 7291
+  time: '2026-10-12T02:28:54.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1647
+- author: Feathernights
+  changes:
+    - type: Remove
+      message: Syndicate was taken out back and shot. Some remnants may remain.
+    - type: Tweak
+      message: Syndicate Larp tax removed.
+  id: 7292
+  time: '2026-10-12T02:35:19.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1649
+- author: cyanfoot
+  changes:
+    - type: Add
+      message: >-
+        Added some new forms to the Doctors and DoC folders. Rebranded existing
+        ones.
+  id: 7293
+  time: '2026-10-12T02:42:47.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1653

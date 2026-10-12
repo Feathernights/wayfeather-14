@@ -421,3 +421,22 @@
   - WFSidearmCGP
   - WFLongarm
   - WFAmmo
+
+- type: roleLoadout
+  id: JobCentralCommandOfficial
+  groups:
+  - CentcomOfficialHead
+  - CentcomOfficialNeck
+  - CentcomOfficialJumpsuit
+  - CentcomOfficialGloves
+  - CentcomOfficialBackpack
+  - ContractorForcedOuterClothing
+  - CentcomOfficialOuterClothing
+  - CentcomOfficialShoes
+  - CentcomOfficialMask
+  - CentcomOfficialGlasses
+  - CentcomOfficialBelt
+  - CentcomOfficialEars
+  - WFBoxSurvival
+  - NFSpeciesSpecific
+  - CentcomOfficialSidearm
