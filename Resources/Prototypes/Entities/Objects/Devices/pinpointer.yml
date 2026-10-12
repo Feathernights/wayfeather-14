@@ -62,7 +62,7 @@
     targetName: nuclear authentication disk
 
 - type: entity
-  name: scarlet pinpointer # Wayfarer: Syndicate<nuclear
+  name: syndicate pinpointer
   description: Produced specifically for nuclear operative missions, get that disk!
   id: PinpointerSyndicateNuclear
   parent: [ BaseBMContraband, PinpointerBase ] # Wayfarer: BaseSyndicateContraband<BaseBMContraband

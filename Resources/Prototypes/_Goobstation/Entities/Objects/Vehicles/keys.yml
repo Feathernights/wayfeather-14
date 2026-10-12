@@ -28,7 +28,7 @@
 - type: entity
   parent: BaseKey
   id: VehicleKeySyndicateSegway
-  name: outlaw segway keys # Wayfarer: Syndicate<Outlaw
+  name: syndicate segway keys
   description: Patterned after the iconic EMAG design.
   components:
   - type: Sprite

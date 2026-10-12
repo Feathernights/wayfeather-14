@@ -119,7 +119,7 @@
 - type: entity
   parent: ClothingNeckCollarBase
   id: ClothingNeckCollarSyndi
-  name: scarlet collar # Wayfarer: Blood-red<scarlet
+  name: Blood-Red collar
   description: Sometimes you gotta be naughty.
   components:
     - type: Sprite

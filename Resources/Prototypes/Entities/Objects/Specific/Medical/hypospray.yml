@@ -41,9 +41,9 @@
     solutionName: hypospray
 
 - type: entity
-  name: genovan hypospray # Wayfarer: Gorlex<crisis
+  name: gorlex hypospray
   parent: [BaseItem, BaseBMContraband] # Frontier: add BaseC3SyndicateContraband # Wayfarer: BaseC3SyndicateContraband<BaseBMContraband
-  description: Using Genova's state-of-the-art patented administration tech, this hypospray is capable of rapidly applying unsafe levels of dosage.
+  description: Using reverse engineered designs from NT, Cybersun produced these in limited quantities for Gorlex Marauder operatives.
   id: SyndiHypo
   components:
   - type: Sprite

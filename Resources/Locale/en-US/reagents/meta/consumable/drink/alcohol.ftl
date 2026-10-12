@@ -276,8 +276,7 @@ reagent-desc-snow-white = A cold refreshment.
 reagent-name-sui-dream = sui dream
 reagent-desc-sui-dream = 'Comprised of: White soda, blue Curaçao, melon liquor.'
 
-# Wayfarer: Syndicate<Old Op
-reagent-name-syndicate-bomb = Old Op bomb
+reagent-name-syndicate-bomb = syndicate bomb
 reagent-desc-syndicate-bomb = Somebody set us up the bomb!
 
 reagent-name-tequila-sunrise = tequila sunrise

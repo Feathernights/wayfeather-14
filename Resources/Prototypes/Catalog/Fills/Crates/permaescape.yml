@@ -221,7 +221,7 @@
 - type: entity
   id: CratePermaEscapeGiftsFromSyndicate
   parent: CrateGenericSteel
-  suffix: Ops Gifts # Wayfarer: Syndi<Ops
+  suffix: Syndi Gifts
   components:
   - type: StorageFill
     contents:

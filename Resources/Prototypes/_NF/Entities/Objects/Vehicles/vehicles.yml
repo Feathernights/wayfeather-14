@@ -739,8 +739,8 @@
   - VehicleHoverbikeMailcarrier
   #- BaseC3SyndicateContraband # Wayfarer
   id: VehicleHoverbikeSyndicate
-  name: crimson hoverbike # Wayfarer: Syndicate<Crimson
-  description: This thing screams style. And cool drift slides. # Wayfarer: changed description
+  name: syndicate hoverbike
+  description: This thing screams style. And war crimes.
   components:
   - type: Storage
     grid:

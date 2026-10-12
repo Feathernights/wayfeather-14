@@ -323,10 +323,10 @@
     - Meat
 
 - type: entity
-  name: coldcakes # Wayfarer: changed name
+  name: syndi-cakes
   parent: FoodSnackBase
   id: FoodSnackSyndi
-  description: A cold, extremely moist snack cake that tastes like winter. # Wayfarer: changed description
+  description: An extremely moist snack cake that tastes just as good after being nuked.
   components:
   - type: FlavorProfile
     flavors:
@@ -840,7 +840,7 @@
   categories: [ HideSpawnMenu ]
   parent: FoodPacketTrash
   id: FoodPacketSyndiTrash
-  name: coldcakes box # Wayfarer: changed name
+  name: syndi-cakes box
   components:
   - type: Sprite
     state: syndicakes-trash

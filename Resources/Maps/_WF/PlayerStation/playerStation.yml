@@ -21,7 +21,8 @@ entities:
   - uid: 2
     components:
     - type: MetaData
-      name: PlayerStation
+      name: grid
+    - type: Transform
     - type: MapGrid
       chunks:
         0,0:
@@ -65,7 +66,7 @@ entities:
         chunkSize: 4
     - type: GasTileOverlay
     - type: RadiationGridResistance
-- proto: AirlockExternal
+- proto: AirlockShuttle
   entities:
   - uid: 3
     components:
@@ -77,18 +78,14 @@ entities:
     - type: Transform
       pos: 0.5,-1.5
       parent: 2
-- proto: AirlockShuttle
-  entities:
   - uid: 39
     components:
     - type: Transform
-      rot: -1.5707963267948966 rad
       pos: -1.5,-0.5
       parent: 2
   - uid: 40
     components:
     - type: Transform
-      rot: -1.5707963267948966 rad
       pos: -1.5,-1.5
       parent: 2
 - proto: APCBasic

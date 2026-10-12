@@ -20,9 +20,6 @@
   id: CandleInfinite
 
 - type: Tag
-  id: CrystalShard
-
-- type: Tag
   id: DataChit
 
 - type: Tag

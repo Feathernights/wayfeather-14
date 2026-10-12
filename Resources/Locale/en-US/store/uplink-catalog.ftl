@@ -5,9 +5,8 @@ uplink-pistol-viper-desc = A small, easily concealable, but somewhat underpowere
 uplink-estoc-bundle-name = Estoc DMR bundle
 uplink-estoc-bundle-desc = A designated marksman rifle, fitted with a mid-range optic for longer-range combat. Bundled with two rifle magazines (.20 rifle).
 
-# Wayfarer: Removed Syndicate
 uplink-revolver-python-name = Python
-uplink-revolver-python-desc = A brutally simple, effective, and loud revolver. Comes loaded with armor-piercing rounds. Uses .45 magnum.
+uplink-revolver-python-desc = A brutally simple, effective, and loud Syndicate revolver. Comes loaded with armor-piercing rounds. Uses .45 magnum.
 
 uplink-pistol-cobra-name = Cobra
 uplink-pistol-cobra-desc = A rugged, robust operator handgun with inbuilt silencer. Uses pistol magazines (.25 caseless).
@@ -33,8 +32,7 @@ uplink-fire-axe-flaming-desc = A classic-style weapon infused with advanced atmo
 uplink-gloves-north-star-name = Gloves of the North Star
 uplink-gloves-north-star-desc = A pair of gloves that reduce your punching cooldown drastically, allowing you to beat people to death in a flurry of punches.
 
-# Wayfarer: "Syndicate"<"Spinel"
-uplink-gloves-knuckleduster-name = Spinel Knuckle Dusters
+uplink-gloves-knuckleduster-name = Syndicate Knuckle Dusters
 uplink-gloves-knuckleduster-desc = A pair of plastitanium knuckle dusters that let you punch hard enough to break the captains jaw into pieces.
 # Explosives
 uplink-explosive-grenade-name = Explosive Grenade
@@ -56,8 +54,7 @@ uplink-whitehole-grenade-name = Whitehole Grenade
 uplink-whitehole-grenade-desc = Grenade that repulses everything around for about 10 seconds. Very useful in small rooms and for chasing someone.
 
 uplink-penguin-grenade-name = Grenade Penguin
-# Wayfarer: Removed "by the Syndicate"
-uplink-penguin-grenade-desc = A small, highly-aggressive penguin with a grenade strapped around its neck. Harvested from icy shit-hole planets.
+uplink-penguin-grenade-desc = A small, highly-aggressive penguin with a grenade strapped around its neck. Harvested by the Syndicate from icy shit-hole planets.
 
 uplink-c4-name = C-4
 uplink-c4-desc = Use it to breach walls, airlocks or sabotage equipment. It can be attached to almost all objects and has a modifiable timer with a minimum setting of 10 seconds.
@@ -74,14 +71,11 @@ uplink-emp-grenade-desc = A grenade designed to disrupt electronic systems. Usef
 uplink-exploding-pen-name = Exploding pen
 uplink-exploding-pen-desc = A class IV explosive device contained within a standard pen. Comes with a 4 second fuse.
 
-# Wayfarer: "Syndicate"<"Coldlight"
-uplink-exploding-syndicate-bomb-name = Coldlight Bomb
+uplink-exploding-syndicate-bomb-name = Syndicate Bomb
 uplink-exploding-syndicate-bomb-desc = A big, anchored bomb that can create a huge explosion if not defused in time. Useful as a distraction. Has an adjustable timer with a minimum setting of 180 seconds.
 
-# Wayfarer: "Syndicate"<"Coldlight"
-uplink-exploding-syndicate-bomb-fake-name = Decoy Coldlight Bomb
-# Wayfarer: "Syndicate"<"Coldlight"
-uplink-exploding-syndicate-bomb-fake-desc = A training bomb carefully made to look just like the real thing. In all ways similar to a Coldlight bomb, but only creates a tiny explosion.
+uplink-exploding-syndicate-bomb-fake-name = Decoy Syndicate Bomb
+uplink-exploding-syndicate-bomb-fake-desc = A training bomb carefully made to look just like the real thing. In all ways similar to a syndicate bomb, but only creates a tiny explosion.
 
 uplink-cluster-grenade-name = Cluster Grenade
 uplink-cluster-grenade-desc = Three explosive grenades bundled together. The cluster splits after 3.5 seconds.
@@ -136,8 +130,7 @@ uplink-chest-rig-name = Chest Rig
 uplink-chest-rig-desc = Explosion-resistant tactical webbing used for holding traitor goods.
 
 uplink-emag-name = Emag
-# Wayfarer: "Syndicate"<"any sabotuer"
-uplink-emag-desc = The business card of any saboteur, this sequencer is able to tamper with a variety of station devices. Recharges automatically.
+uplink-emag-desc = The business card of the syndicate, this sequencer is able to tamper with a variety of station devices. Recharges automatically.
 
 uplink-access-breaker-name = Access Breaker
 uplink-access-breaker-desc = A hacked access configurator and a good friend of the emag. This device is able to force airlocks open as well as erase access requirements from station equipment. Recharges automatically.
@@ -149,8 +142,7 @@ uplink-black-jetpack-name = Black Jetpack
 uplink-black-jetpack-desc = A black jetpack. It allows you to fly around in space. Refills not included, use your fuel wisely.
 
 uplink-reinforcement-radio-ancestor-name = Genetic Ancestor Reinforcement Teleporter
-# Wayfarer: Removed Syndicate
-uplink-reinforcement-radio-ancestor-desc = Call in a trained ancestor of your choosing to assist you. Comes with a single cigarette.
+uplink-reinforcement-radio-ancestor-desc = Call in a trained ancestor of your choosing to assist you. Comes with a single syndicate cigarette.
 
 uplink-reinforcement-radio-name = Reinforcement Teleporter
 uplink-reinforcement-radio-traitor-desc =  Radio in a reinforcement agent of extremely questionable quality. No off button, buy this if you're ready to party. Call in a medic or spy or thief to help you out. Good luck.
@@ -158,22 +150,17 @@ uplink-reinforcement-radio-traitor-desc =  Radio in a reinforcement agent of ext
 uplink-reinforcement-radio-nukeops-name = Nuclear Operative Teleporter
 uplink-reinforcement-radio-nukeops-desc =  Radio in a nuclear operative of extremely questionable quality. No off button, buy this if you're ready to party. They have basic nuclear operative gear.
 
-# Wayfarer: "Syndicate"<"Operative"
-uplink-reinforcement-radio-cyborg-assault-name = Operative Assault Cyborg Teleporter
+uplink-reinforcement-radio-cyborg-assault-name = Syndicate Assault Cyborg Teleporter
 uplink-reinforcement-radio-cyborg-assault-desc =  A lean, mean killing machine with access to an Energy Sword, LMG, Cryptographic Sequencer, and a Pinpointer.
 
 uplink-stealth-box-name = Stealth Box
 uplink-stealth-box-desc = A box outfitted with stealth technology. Sneak around unnoticed, but don't move too fast or you'll be revealed!
 
-# Wayfarer: "Syndicate"<"Spinel"
-uplink-headset-name = Spinel Over-ear Headset
-# Wayfarer: "Syndicate"<"Coldlight associates"
-uplink-headset-desc = A headset that allows you to communicate with other Coldlight associates. Has 4 slots for encryption keys.
+uplink-headset-name = Syndicate Over-ear Headset
+uplink-headset-desc = A headset that allows you to communicate with other syndicate operatives. Has 4 slots for encryption keys.
 
-# Wayfarer: "Syndicate"<"Coldlight"
-uplink-encryption-key-name = Coldlight Encryption Keys
-# Wayfarer: "special agents"<"associates"
-uplink-encryption-key-desc = Two encryption keys for access to the secret frequency of our associates. Give the spare to a friend, but make sure it doesn't fall into enemy hands.
+uplink-encryption-key-name = Syndicate Encryption Keys
+uplink-encryption-key-desc = Two encryption keys for access to the secret frequency of our special agents. Give the spare to a friend, but make sure it doesn't fall into enemy hands.
 
 uplink-binary-translator-key-name = Binary Translator Key
 uplink-binary-translator-key-desc = Lets you tap into the silicons' binary channel. Don't talk on it though, at least not without a voice mask.
@@ -184,10 +171,8 @@ uplink-hypopen-desc = A chemical hypospray disguised as a pen, capable of instan
 uplink-voice-mask-name = Voice Mask
 uplink-voice-mask-desc = A gas mask that lets you adjust your voice to whoever you can think of. Also utilizes cutting-edge chameleon technology.
 
-# Wayfarer: "Syndicate"<"Operative"
-uplink-clothing-eyes-hud-syndicate-name = Operative Visor
-# Wayfarer: "The syndicate's professional head-up display, designed for better detection of humanoids and their subsequent elimination."<"A professional head-up display, designed for better detection of humanoids."
-uplink-clothing-eyes-hud-syndicate-desc = A professional head-up display, designed for better detection of humanoids.
+uplink-clothing-eyes-hud-syndicate-name = Syndicate Visor
+uplink-clothing-eyes-hud-syndicate-desc = The syndicate's professional head-up display, designed for better detection of humanoids and their subsequent elimination.
 
 uplink-radio-jammer-name = Radio Jammer
 uplink-radio-jammer-desc = This device will disrupt any nearby outgoing radio communication as well as suit sensors when activated.
@@ -224,12 +209,10 @@ uplink-macro-bomb-implanter-name = Macro Bomb Implanter
 uplink-macro-bomb-implanter-desc = Inject this and on death you'll create a large explosion. Huge team casualty cost, use at own risk. Replaces internal micro bomb.
 
 uplink-uplink-implanter-name = Uplink Implanter
-# Wayfarer: "Telecrystals"<"Warpglass"
-uplink-uplink-implanter-desc = Stealthily order equipment without the need for a PDA. Swallow Warpglass to top up the uplink.
+uplink-uplink-implanter-desc = Stealthily order equipment without the need for a PDA. Swallow telecrystals to top up the uplink.
 
 uplink-deathrattle-implant-name = Box Of Deathrattle Implants
-# Wayfarer: "Syndicate"<"Coldlight"
-uplink-deathrattle-implant-desc = A box containing enough deathrattle implants for the whole squad. Relays a message containing your position to the Coldlight channel when you go into a critical state or die.
+uplink-deathrattle-implant-desc = A box containing enough deathrattle implants for the whole squad. Relays a message containing your position to the syndicate channel when you go into a critical state or die.
 
 uplink-death-acidifier-implant-name = Death Acidifier Implant
 uplink-death-acidifier-implant-desc = Completely melts the user and their equipment on use or death.
@@ -238,8 +221,7 @@ uplink-micro-bomb-implanter-name = Micro Bomb Implanter
 uplink-micro-bomb-implanter-desc = Explode on death or manual activation with this implant. Destroys the body with all equipment.
 
 uplink-radio-implanter-name = Radio Implanter
-# Wayfarer: "Syndicate"<"Coldlight"
-uplink-radio-implanter-desc = Implants a Coldlight radio, allowing covert communication without a headset.
+uplink-radio-implanter-desc = Implants a Syndicate radio, allowing covert communication without a headset.
 
 # Bundles
 uplink-observation-kit-name = Observation Kit
@@ -255,11 +237,9 @@ uplink-chemistry-kit-name = Chemical Synthesis Kit
 uplink-chemistry-kit-desc = A starter kit for the aspiring chemist, includes two vials of vestine for all your criminal needs!
 
 uplink-knives-kit-name = Throwing Knives Kit
-# Wayfarer: "Syndicate branded"<"sharp"
-uplink-knives-kit-desc = A set of 4 sharp throwing knives, perfect for embedding into the body of your victims. Capable of ignoring armor entirely when thrown.
+uplink-knives-kit-desc = A set of 4 syndicate branded throwing knives, perfect for embedding into the body of your victims. Capable of ignoring armor entirely when thrown.
 
-# Wayfarer: "Interdyne"<"Genova"
-uplink-meds-bundle-name = Genova Medical Bundle
+uplink-meds-bundle-name = Interdyne Medical Bundle
 uplink-meds-bundle-desc = An assortment of autoinjectors and premium medical equipment to cover for every possible situation. Contains an elite compact defibrillator that can be used as a weapon.
 
 # Frontier: L6<LMG-6
@@ -284,26 +264,21 @@ uplink-l6-saw-bundle-name = LMG-6 Bundle
 uplink-l6-saw-bundle-desc = More dakka: The iconic LMG-6 light machine gun, bundled with 2 box magazines.
 # End Frontier
 
-# Wayfarer: "Syndicate Zombie"<"Outbreak"
-uplink-zombie-bundle-name = Outbreak Bundle
+uplink-zombie-bundle-name = Syndicate Zombie Bundle
 uplink-zombie-bundle-desc = An all-in-one kit for unleashing the undead upon a station.
 
 uplink-surplus-bundle-name = Surplus Crate
-# Wayfarer: "Telecrystals"<"Warpglass", "Syndicate"<"contraband"
-uplink-surplus-bundle-desc = Contains 50 Warpglass worth of completely random contraband items. It can be useless junk or really good.
+uplink-surplus-bundle-desc = Contains 50 telecrystals worth of completely random Syndicate items. It can be useless junk or really good.
 
 uplink-super-surplus-bundle-name = Super Surplus Crate
-# Wayfarer: "Telecrystals"<"Warpglass", "Syndicate"<"contraband"
-uplink-super-surplus-bundle-desc = Contains 125 Warpglass worth of completely random contraband items.
+uplink-super-surplus-bundle-desc = Contains 125 telecrystals worth of completely random Syndicate items.
 
 uplink-starter-kit-name = Basic Operative Bundle
-# Wayfarer: "Telecrystals"<"Warpglass"
-uplink-starter-kit-desc = Contains 40 Warpglass of basic operative gear. For those operatives who just don't know what they should buy.
+uplink-starter-kit-desc = Contains 40 telecrystals of basic operative gear. For those operatives who just don't know what they should buy.
 
 # Tools
 uplink-toolbox-name = Toolbox
-# Wayfarer: "traitor"<"saboteur", "Syndicate"<"Spinel"
-uplink-toolbox-desc = A full compliment of tools for the mechanically inclined saboteur. Includes a pair of insulated combat gloves and a spinel gas mask as well.
+uplink-toolbox-desc = A full compliment of tools for the mechanically inclined traitor. Includes a pair of insulated combat gloves and a syndicate gas mask as well.
 
 uplink-syndicate-jaws-of-life-name = Advanced Jaws Of Life
 uplink-syndicate-jaws-of-life-desc = A combined prying and cutting tool. Useful for entering the station or its departments.
@@ -346,8 +321,7 @@ uplink-proximity-mine-name = Proximity Mine
 uplink-proximity-mine-desc = A mine disguised as a wet floor sign.
 
 uplink-disposable-turret-name = Disposable Ballistic Turret
-# Wayfarer: "members of the syndicate"<"Coldlight operatives"
-uplink-disposable-turret-desc = Looks and functions like a normal electrical toolbox. Upon hitting the toolbox it will transform into a ballistic turret, theoretically shooting at anyone except Coldlight operatives. Can be turned back into a toolbox using a screwdriver and repaired using a wrench.
+uplink-disposable-turret-desc = Looks and functions like a normal electrical toolbox. Upon hitting the toolbox it will transform into a ballistic turret, theoretically shooting at anyone except members of the syndicate. Can be turned back into a toolbox using a screwdriver and repaired using a wrench.
 
 uplink-cluster-banana-peel-name = Cluster Banana
 uplink-cluster-banana-peel-desc = Splits into 6 explosive banana peels after being thrown, the peels detonate automatically after 20 seconds if nobody slips on them.
@@ -374,31 +348,23 @@ uplink-clothing-outer-vest-web-desc = A synthetic armor vest. This one has added
 uplink-clothing-outer-vest-web-elite-name = Elite Web Vest
 uplink-clothing-outer-vest-web-elite-desc = A synthetic armor vest. This one has added webbing and heat resistant fibers.
 
-# Wayfarer: "Blood-red"<"Spinel"
-uplink-clothing-shoes-boots-mag-syndie-name = Spinel Magboots
+uplink-clothing-shoes-boots-mag-syndie-name = Blood-red Magboots
 uplink-clothing-shoes-boots-mag-syndie-desc = A pair of boots that prevent slipping and, in zero gravity, allow you to move normally, at the cost of a slight slowdown. Additionally, they have jetpack functionality and come fueled, but don't last for long.
 
-# Wayfarer: "Blood-red"<"Spinel"
-uplink-eva-syndie-name = Spinel EVA Bundle
+uplink-eva-syndie-name = Syndicate EVA Bundle
 uplink-eva-syndie-desc = A simple EVA suit that offers no protection other than what's needed to survive in space.
 
 uplink-hardsuit-carp-name = Carp Hardsuit
 uplink-hardsuit-carp-desc = Looks like an ordinary carp suit, except fully spaceproof and tricks space carp into thinking you are one of them.
 
-# Wayfarer: "Syndicate"<"Spinel"
-uplink-hardsuit-syndie-name = Spinel Hardsuit
-# Wayfarer: "The Syndicate's well known armored blood red"<"An old spinel"
-uplink-hardsuit-syndie-desc = An old spinel hardsuit, capable of space walks and bullet-resistant.
+uplink-hardsuit-syndie-name = Syndicate Hardsuit
+uplink-hardsuit-syndie-desc = The Syndicate's well known armored blood red hardsuit, capable of space walks and bullet-resistant.
 
-# Wayfarer: "Syndicate"<"Spinel"
-uplink-syndie-raid-name = Spinel Raid Suit
-# Wayfarer: "blood-red"<"Spinel"
-uplink-syndie-raid-desc = A very durable and reasonably flexible suit of spinel armor, reinforced against all common forms of damage but not capable of space walks. Comes with a sick helmet.
+uplink-syndie-raid-name = Syndicate Raid Suit
+uplink-syndie-raid-desc = A very durable and reasonably flexible suit of blood-red armor, reinforced against all common forms of damage but not capable of space walks. Comes with a sick helmet.
 
-# Wayfarer: "Syndicate"<"Spinel"
-uplink-hardsuit-syndieelite-name = Spinel Elite Hardsuit
-# Wayfarer: "Syndicate"<"Spinel"
-uplink-hardsuit-syndieelite-desc = An elite version of the spinel hardsuit, with improved mobility and fireproofing. Property of Gorlex Marauders.
+uplink-hardsuit-syndieelite-name = Syndicate Elite Hardsuit
+uplink-hardsuit-syndieelite-desc = An elite version of the blood-red hardsuit, with improved mobility and fireproofing. Property of Gorlex Marauders.
 
 uplink-clothing-outer-hardsuit-juggernaut-name = Cybersun Juggernaut Suit
 uplink-clothing-outer-hardsuit-juggernaut-desc = Hyper resilient armor made of materials tested in the Tau chromosphere facility. The only thing that's going to be slowing you down is this suit... and tasers.
@@ -410,16 +376,13 @@ uplink-cyberpen-desc = Cybersun's legal department pen, invaluable for forging d
 uplink-decoy-disk-name = Decoy Nuclear Disk
 uplink-decoy-disk-desc = A piece of plastic with a lenticular printing, made to look like a nuclear authentication disk.
 
-# Wayfarer: "Syndicate"<"Genova"
-uplink-cigarettes-name = Genova Smokes Packet
-# Wayfarer: "agents"<"smokers"
-uplink-cigarettes-desc = Elite cigarettes for elite smokers. Infused with medicine for when you need to do more than calm your nerves.
+uplink-cigarettes-name = Syndicate Smokes Packet
+uplink-cigarettes-desc = Elite cigarettes for elite agents. Infused with medicine for when you need to do more than calm your nerves.
 
 uplink-clothing-conducting-gloves-name = Conducting Gloves
 uplink-clothing-conducting-gloves-desc = Looks exactly like insulated gloves, but shocks you far worse than if you had nothing at all! Best given as a gift to passengers you really don't like.
 
-# Wayfarer: "Syndicate"<"Elite"
-uplink-snack-box-name = Elite Snack Box
+uplink-snack-box-name = Syndicate Snack Box
 uplink-snack-box-desc = A box of delicious snacks and drinks to eat alone or with your team. Includes 1 toy you didn't want.
 
 uplink-eshield-name = Energy Shield
@@ -440,29 +403,22 @@ uplink-combat-medipen-desc = A single-use medipen containing chemicals that rege
 uplink-nocturine-chemistry-bottle-name = Nocturine Bottle
 uplink-nocturine-chemistry-bottle-desc = A chemical that puts your target straight to sleep.
 
-# Wayfarer: "the syndicate"<"combat"
 uplink-stimpack-name = Hyperzine Injector
-uplink-stimpack-desc = The legendary chemical produced by Donk Co. for combat. Injecting yourself with this will increase your run speed and let you recover from stuns faster for 30 seconds.
+uplink-stimpack-desc = The legendary chemical produced by Donk Co. for the Syndicate. Injecting yourself with this will increase your run speed and let you recover from stuns faster for 30 seconds.
 
 uplink-stimkit-name = Hyperzine Injector Kit
 uplink-stimkit-desc = A medkit containing 6 hyperzine microinjectors, which each inject you with enough hyperzine to last for 15 seconds.
 
-# Wayfarer: "Syndicate"<"Corpo"
-uplink-syndicate-segway-crate-name = Corpo Segway
-# Wayfarer: "an enemy of the corporation"<"a rolling posterboard"
-uplink-syndicate-segway-crate-desc = Be a rolling posterboard, in style!
+uplink-syndicate-segway-crate-name = Syndicate Segway
+uplink-syndicate-segway-crate-desc = Be an enemy of the corporation, in style!
 
-# Wayfarer: "Syndicate"<"Evil"
-uplink-syndicate-sponge-box-name = Evil Sponge Box
-# Wayfarer: "Syndicate"<"evil"
-uplink-syndicate-sponge-box-desc = A box containing 6 evil sponges disguised as monkey cubes, these cubes turn into a variety of angry wildlife after coming into contact with water.
+uplink-syndicate-sponge-box-name = Syndicate Sponge Box
+uplink-syndicate-sponge-box-desc = A box containing 6 syndicate sponges disguised as monkey cubes, these cubes turn into a variety of angry wildlife after coming into contact with water.
 
 uplink-slipocalypse-clustersoap-name = Slipocalypse Clustersoap
-# Wayfarer: "Syndicate-brand"<"Spinel-colored"
-uplink-slipocalypse-clustersoap-desc = Scatters arounds small pieces of spinel-colored soap after being thrown, these pieces of soap evaporate after 60 seconds.
+uplink-slipocalypse-clustersoap-desc = Scatters arounds small pieces of syndicate-brand soap after being thrown, these pieces of soap evaporate after 60 seconds.
 
-# Wayfarer: "SyndiCat"<"Bomb-a-Cat"
-uplink-mobcat-microbomb-name = Bomb-a-Cat Teleporter
+uplink-mobcat-microbomb-name = SyndiCat Teleporter
 uplink-mobcat-microbomb-desc = Call in a handy cat equipped with a microbomb implant. Explodes when seriously injured. Can bite painfully.
 
 uplink-chameleon-projector-name = Chameleon Projector
@@ -472,8 +428,7 @@ uplink-chameleon-projector-desc = Disappear in plain sight by creating a hologra
 uplink-revolver-cap-gun-name = Cap Gun
 uplink-revolver-cap-gun-desc = Looks almost like the real thing! Ages 8 and up.
 
-# Wayfarer: "Syndicate"<"Coldlight"
-uplink-syndicate-stamp-name = Coldlight Rubber Stamp
+uplink-syndicate-stamp-name = Syndicate Rubber Stamp
 uplink-syndicate-stamp-desc = A rubber stamp for stamping important documents.
 
 uplink-cat-ears-name = Cat Ears
@@ -485,10 +440,8 @@ uplink-outlaw-hat-desc = A hat that makes you look like you carry a notched pist
 uplink-outlaw-glasses-name = Outlaw Glasses
 uplink-outlaw-glasses-desc = A must for every self-respecting undercover agent.
 
-# Wayfarer: "Syndicate"<"Spinel"
-uplink-costume-pyjama-name = Spinel Pyjama Duffel Bag
-# Wayfarer: "Syndicate"<"Spinel"
-uplink-costume-pyjama-desc = Contains 3 pairs of spinel pyjamas and 4 plushies for the ultimate sleepover.
+uplink-costume-pyjama-name = Syndicate Pyjama Duffel Bag
+uplink-costume-pyjama-desc = Contains 3 pairs of syndicate pyjamas and 4 plushies for the ultimate sleepover.
 
 uplink-costume-clown-name = Clown Costume Duffel Bag
 uplink-costume-clown-desc = Contains a complete Clown outfit. Includes PDA and service radio.
@@ -502,25 +455,17 @@ uplink-operative-suit-desc = A suit given to our nuclear operatives with fine fa
 uplink-operative-skirt-name = Operative Jumpskirt
 uplink-operative-skirt-desc = A skirt given to our nuclear operatives with fine fabric to make sure you stand out, no other benefits aside from looking cool.
 
-# Wayfarer: "Syndie"<"Spinel"
-uplink-balloon-name = Spinel Balloon
-# Wayfarer: "the bravest souls who survived the "atomic twister" ride at Syndieland"<"those who like to brood in the dark"
-uplink-balloon-desc = Handed out to those who like to brood in the dark.
+uplink-balloon-name = Syndie Balloon
+uplink-balloon-desc = Handed out to the bravest souls who survived the "atomic twister" ride at Syndieland.
 
-# Wayfarer: "Syndicate"<"Spinel"
-uplink-scarf-syndie-red-name = Striped spinel red scarf
-# Wayfarer: "Syndicate red"<"Spinel"
-uplink-scarf-syndie-red-desc = A stylish striped spinel scarf. The perfect winter accessory for those with a keen fashion sense, and those who are in the mood to steal something.
+uplink-scarf-syndie-red-name = Striped syndicate red scarf
+uplink-scarf-syndie-red-desc = A stylish striped syndicate red scarf. The perfect winter accessory for those with a keen fashion sense, and those who are in the mood to steal something.
 
-# Wayfarer: "Syndicate"<"arbor"
-uplink-scarf-syndie-green-name = Striped arbor green scarf
-# Wayfarer: "Syndicate"<"arbor"
-uplink-scarf-syndie-green-desc = A stylish striped arbor green scarf. The perfect winter accessory for those with a keen fashion sense, and those who are in the mood to steal something.
+uplink-scarf-syndie-green-name = Striped syndicate green scarf
+uplink-scarf-syndie-green-desc = A stylish striped syndicate green scarf. The perfect winter accessory for those with a keen fashion sense, and those who are in the mood to steal something.
 
-# Wayfarer: "Syndicate personal ai device"<"Spinel personal ai device"
-uplink-syndicate-pai-name = Spinel personal ai device
-# Wayfarer: "Syndicate"<"spinel"
-uplink-syndicate-pai-desc = A spinel variant of the pAI with access to the Coldlight radio channel. We do not guarantee their usefulness.
+uplink-syndicate-pai-name = Syndicate personal ai device
+uplink-syndicate-pai-desc = A Syndicate variant of the pAI with access to the Syndicate radio channel. We do not guarantee their usefulness.
 
 uplink-bribe-name = Lobbying Bundle
 uplink-bribe-desc = A heartfelt gift that can help you sway someone's opinion. Real or counterfeit? Yes.
@@ -531,29 +476,23 @@ uplink-hypodart-desc = A seemingly unremarkable dart with an enlarged reservoir 
 uplink-barber-scissors-name = Barber Scissors
 uplink-barber-scissors-desc = A good tool to give your fellow agent a nice haircut, unless you want to give it to yourself.
 
-# Wayfarer: "Syndicate"<"Spinel"
-uplink-backpack-syndicate-name = Spinel Backpack
-uplink-backpack-syndicate-desc = A lightweight, explosion-proof backpack for holding various traitor goods.
+uplink-backpack-syndicate-name = Syndicate backpack
+uplink-backpack-syndicate-desc = A lightweight explosion-proof backpack for holding various traitor goods
 
 uplink-cameraBug-name = Camera bug
 uplink-cameraBug-desc = A portable device that allows you to view the station's cameras.
 
 uplink-combat-bakery-name = Combat Bakery Kit
-# Wayfarer: "Syndicate"<"red"
-uplink-combat-bakery-desc = A kit of clandestine baked weapons. Contains a baguette sword, a pair of throwing croissants, and a red microwave board for making more. Once the job is done, eat the evidence.
+uplink-combat-bakery-desc = A kit of clandestine baked weapons. Contains a baguette sword, a pair of throwing croissants, and a syndicate microwave board for making more. Once the job is done, eat the evidence.
 
-# Wayfarer: "Syndicate"<"Outlaw"
-uplink-business-card-name = Outlaw Business Card
-# Wayfarer: "demonstrate your involvement in the syndicate or leave at the crime scene in order to make fun of the detective"<"show your rebel status or leave at the crime scene in order to taunt the CGP"
-uplink-business-card-desc = A business card that you can give to someone to show your rebel status or leave at the crime scene in order to taunt the CGP.
+uplink-business-card-name = Syndicate Business Card
+uplink-business-card-desc = A business card that you can give to someone to demonstrate your involvement in the syndicate or leave at the crime scene in order to make fun of the detective. You can buy no more than three of them.
 
 uplink-fake-mindshield-name = Fake Mindshield
-# Wayfarer: Removed "(Nanotrasen brand implanter not provided.)"
-uplink-fake-mindshield-desc = A togglable implant capable of mimicking the same transmissions a real mindshield puts out when on, tricking capable Heads-up displays into thinking you have a mindshield.
+uplink-fake-mindshield-desc = A togglable implant capable of mimicking the same transmissions a real mindshield puts out when on, tricking capable Heads-up displays into thinking you have a mindshield (Nanotrasen brand implanter not provided.)
 
 uplink-contraband-lighter-name = Contraband Lighter box
-# Wayfarer: "Syndicate branded"<"red"
-uplink-contraband-lighter-desc = A mystery box guaranteed to contain a red lighter. No fuel required.
+uplink-contraband-lighter-desc = A mystery box guaranteed to contain a syndicate branded lighter. No fuel required
 
 uplink-smuggler-satchel-name = Smuggler's Satchel
 uplink-smuggler-satchel-desc = A handy, suspicious looking satchel. Just flat enough to fit underneath floor tiles.

@@ -155,7 +155,7 @@
 - type: entity
   id: NFWeaponTurretLaserSyndicate
   name: laser turret
-  suffix: Frontier, Operative # Wayfarer: Syndicate<Operative
+  suffix: Frontier, Syndicate
   parent:
   - BaseC3SyndicateContraband
   - BaseTurretSearchBeam

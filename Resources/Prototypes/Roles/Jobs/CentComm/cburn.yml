@@ -5,7 +5,7 @@
   playTimeTracker: JobCBURN
   setPreference: false
   startingGear: CBURNGear
-  icon: "JobIconCentcomm" # Wayfarer: JobIconNanotrasen<JobIconCentcomm
+  icon: "JobIconNanotrasen"
   supervisors: job-supervisors-centcom
   canBeAntag: false
   accessGroups:

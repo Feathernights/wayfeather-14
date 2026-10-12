@@ -23,7 +23,7 @@
   - ContrabandClothing
   id: ClothingHeadHatHoodBioArmoredSyndicate
   name: bio hood
-  suffix: Operative # Wayfarer
+  suffix: Syndicate
   description: A hood that protects the head and face from biological contaminants. As well as user's identity.
   components:
   - type: IdentityBlocker
@@ -73,6 +73,6 @@
   - ContrabandClothing
   id: ClothingHeadHatHoodWinterSyndieUnremoveable
   categories: [ HideSpawnMenu ]
-  name: officer's coat hood # Wayfarer: Syndicate<Officer's
+  name: syndicate coat hood
   components:
   - type: Unremoveable

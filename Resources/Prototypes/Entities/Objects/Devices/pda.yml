@@ -1542,7 +1542,7 @@
     state: pda-seniorofficer
 
 - type: entity
-  parent: [ SyndiPDA ] # Wayfarer: Removed Contraband
+  parent: [ SyndiPDA ] # WF Removed Contraband
   id: PiratePDA
   name: pirate PDA
   description: Yargh!

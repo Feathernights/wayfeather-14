@@ -1,12 +1,11 @@
-# Wayfarer: Syndicate<Coldlight fax note
-dead-drop-hint-note =
-    Not much time.
-    The Coldlight Wolves request your assistance.
+dead-drop-hint-note = Not much time.
+    Spinward Syndicate needs help.
+    Known drops:
 
     {$drops}
 
-    Check here. Lend a hand.
-    Get paid.
+    Check these to lend a hand.
+    For a better tomorrow.
 
 dead-drop-time-known = next drop around {$time}
 dead-drop-time-unknown = next drop placed when we can

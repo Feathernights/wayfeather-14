@@ -2116,7 +2116,7 @@
 - type: entity
   parent: DrinkGlass
   id: DrinkSyndicatebomb
-  suffix: old op bomb
+  suffix: syndicate bomb
   components:
   - type: SolutionContainerManager
     solutions:

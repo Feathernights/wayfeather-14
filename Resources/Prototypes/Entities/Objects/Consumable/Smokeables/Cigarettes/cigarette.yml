@@ -70,7 +70,7 @@
 
 - type: entity
   id: CigaretteSyndicate
-  suffix: Genova # Wayfarer: Syndicate<Genova
+  suffix: syndicate
   parent: Cigarette
   name: cigarette
   components:

@@ -57,8 +57,7 @@ job-name-geneticist = Geneticist
 job-name-no-id = No ID
 job-name-prisoner = Prisoner
 job-name-roboticist = Roboticist
-# Wayfarer: Syndicate<Operative
-job-name-syndicate = Operative
+job-name-syndicate = Syndicate
 job-name-unknown = Unknown
 job-name-virologist = Virologist
 job-name-zombie = Zombie

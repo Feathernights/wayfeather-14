@@ -40,10 +40,8 @@ reagent-desc-tea-yorkshire = A robust and hearty black tea blend, perfect for br
 reagent-name-tea-decaf-black = decaf black tea
 reagent-desc-tea-decaf-black = A classic black tea with the caffeine removed, but all the flavor remains.
 
-# Wayfarer: "Waffle Co. Coffee Delight"<"sweet n' spicy"
-reagent-name-tea-syndie = sweet n' spicy tea
-# Wayfarer: changed description
-reagent-desc-tea-syndie = A scarlet tinged tea, with notes of spicy cinnamon and sugar. Perfect for keeping warm on the colder nights.
+reagent-name-tea-syndie = Waffle Co. Coffee Delight
+reagent-desc-tea-syndie = A synthetic beverage brewed from Waffle Co. powder, favored by Cybersun operatives to avoid faceplanting from exhaustion.
 
 # MARK: Coffees
 

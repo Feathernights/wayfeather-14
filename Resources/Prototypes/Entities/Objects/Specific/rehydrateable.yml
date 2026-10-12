@@ -249,7 +249,7 @@
 - type: entity
   parent: MonkeyCube
   id: SyndicateSponge
-  suffix: Saboteur
+  suffix: Syndicate
   components:
   - type: Rehydratable
     possibleSpawns:

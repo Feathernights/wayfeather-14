@@ -658,7 +658,7 @@
   parent: HappyHonkNukie
   id: HappyHonkNukieSnacks
   suffix: Toy Unsafe, Snacks
-  name: spinel snack box # Wayfarer: Syndicate<Spinel
+  name: syndicate snack box
   components:
   - type: Storage
     grid:

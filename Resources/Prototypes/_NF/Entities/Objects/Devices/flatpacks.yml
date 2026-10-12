@@ -991,7 +991,7 @@
 - type: entity
   parent: HoverbikeFlatpack
   id: HoverbikeSyndicateFlatpack
-  name: crimson hoverbike flatpack # Wayfarer: Syndicate<Crimson
+  name: syndicate hoverbike flatpack
   description: A flatpack used for constructing a hoverbike. Keys already slotted in the ignition.
   components:
   - type: Flatpack

@@ -6,5 +6,4 @@ traitor-corporations-dataset-5 = S.E.L.F.
 traitor-corporations-dataset-6 = Animal Rights Consortium
 traitor-corporations-dataset-7 = Donk Corporation
 traitor-corporations-dataset-8 = Waffle Corporation
-# Wayfarer: Interdyne Pharmaceuticals<Genova Labs
-traitor-corporations-dataset-9 = Genova Labs
+traitor-corporations-dataset-9 = Interdyne Pharmaceutics

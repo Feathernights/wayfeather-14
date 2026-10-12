@@ -116,7 +116,7 @@
 
 - type: loadout
   id: ClothingBeltSyndieHolster
-  price: 750 # Wayfarer: Syndicate larp tax removed
+  price: 2500
   equipment:
     belt: ClothingBeltSyndieHolster
 

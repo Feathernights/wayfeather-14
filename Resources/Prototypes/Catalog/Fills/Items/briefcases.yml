@@ -11,7 +11,7 @@
 - type: entity
   id: BriefcaseSyndieSniperBundleFilled
   parent: BriefcaseSyndie
-  suffix: Operative, Sniper Bundle # Wayfarer: Syndicate>Operative
+  suffix: Syndicate, Sniper Bundle
   components:
   - type: Item
     size: Ginormous
@@ -31,7 +31,7 @@
 - type: entity
   id: BriefcaseSyndieLobbyingBundleFilled
   parent: BriefcaseSyndie
-  suffix: Operative, Spesos # Wayfarer: Syndicate>Operative
+  suffix: Syndicate, Spesos
   components:
   - type: StorageFill
     contents:

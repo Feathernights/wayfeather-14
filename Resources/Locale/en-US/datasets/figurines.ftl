@@ -110,8 +110,7 @@ figurines-cargotech-6 = WE ARE SECEDING!! ALL HAIL CARGONIA!!
 figurines-salvage-1 = Megafauna? It was mega easy.
 figurines-salvage-2 = We're lost. Anyone bring a GPS?
 figurines-salvage-3 = Anyone have oxygen?
-# Wayfarer: removed blood-red
-figurines-salvage-4 = I found an e-sword!
+figurines-salvage-4 = I found a blood-red and e-sword!
 figurines-salvage-5 = There's bears in space?
 figurines-salvage-6 = Crusher? I barely know her!
 
@@ -246,8 +245,7 @@ figurines-nukie-3 = The nuke makes boom.
 figurines-nukie-4 = What's the code?
 figurines-nukie-5 = Commander...? ...That's a balloon...
 
-# Wayfarer: "in Nanotrasen"<"on Comms"
-figurines-nukie-elite-1 = Not a word on Comms.
+figurines-nukie-elite-1 = Not a word in Nanotrasen.
 figurines-nukie-elite-2 = THAT'S A KEG!
 figurines-nukie-elite-3 = Guys, are you alive?
 figurines-nukie-elite-4 = Breach and clear!
@@ -256,19 +254,15 @@ figurines-nukie-elite-6 = Good work, team.
 
 figurines-nukie-commander-1 = GET DAT FUKKEN DISK!
 figurines-nukie-commander-2 = Fuckin' flukies.
-# Wayfarer: "The Syndicate"<"Coldlight"
-figurines-nukie-commander-3 = Coldlight sends its regards.
+figurines-nukie-commander-3 = The Syndicate sends its regards.
 figurines-nukie-commander-4 = Failure is not an option.
 figurines-nukie-commander-5 = Whoops.
 
 figurines-footsoldier-1 = I'm an evil boy. Less boy every day, more evil every day.
 figurines-footsoldier-2 = Who will you choose? Them or us? Us or them?
-# Wayfarer: "Glory to the Syndicate!"<"Blood for the Blood tide!"
-figurines-footsoldier-3 = Blood for the Blood tide!
-# Wayfarer: "Nanotrasen"<"Society"
-figurines-footsoldier-4 = Down with Society!
-# Wayfarer: "Nanotrasen"<"Society"
-figurines-footsoldier-5 = I'd rather die than join Society.
+figurines-footsoldier-3 = Glory to the Syndicate!
+figurines-footsoldier-4 = Down with Nanotrasen!
+figurines-footsoldier-5 = I'd rather die than join Nanotrasen.
 
 figurines-wizard-1 = Ei Nath!!
 figurines-wizard-2 = Real wizards support trans rights.

@@ -26,20 +26,6 @@ public sealed class OutlawObjectivesCartridgeSystem : EntitySystem
 
         SubscribeLocalEvent<OutlawObjectivesCartridgeComponent, CartridgeUiReadyEvent>(OnUiReady);
         SubscribeLocalEvent<OutlawObjectivesChangedEvent>(OnObjectivesChanged);
-        SubscribeLocalEvent<OutlawObjectiveActivatedEvent>(OnObjectiveActivated);
-    }
-
-    private void OnObjectiveActivated(ref OutlawObjectiveActivatedEvent ev)
-    {
-        var header = Loc.GetString("outlaw-objectives-program-name");
-        var message = Loc.GetString("outlaw-objectives-activated");
-
-        var query = EntityQueryEnumerator<OutlawObjectivesCartridgeComponent, CartridgeComponent>();
-        while (query.MoveNext(out _, out _, out var cartridge))
-        {
-            if (cartridge.LoaderUid is { } loader && TryComp<CartridgeLoaderComponent>(loader, out var loaderComp))
-                _cartridgeLoader.SendNotification(loader, header, message, loaderComp);
-        }
     }
 
     private void OnUiReady(Entity<OutlawObjectivesCartridgeComponent> ent, ref CartridgeUiReadyEvent args)
@@ -74,18 +60,18 @@ public sealed class OutlawObjectivesCartridgeSystem : EntitySystem
         var query = EntityQueryEnumerator<OutlawObjectiveComponent>();
         while (query.MoveNext(out var uid, out var comp))
         {
-            if (comp.Active.Count == 0 || TerminatingOrDeleted(uid))
+            if (comp.Open.Count == 0 || TerminatingOrDeleted(uid))
                 continue;
 
             var dead = _mobState.IsDead(uid);
             var ssd = !HasComp<ActorComponent>(uid);
             var name = Name(uid);
 
-            foreach (var objective in comp.Active)
+            foreach (var objective in comp.Open)
             {
                 var proto = _proto.Index(objective);
 
-                if (dead && proto.Trigger == OutlawObjectiveTrigger.Killed)
+                if (dead && proto.Trigger == OutlawObjectiveTrigger.Critical)
                     continue;
 
                 entries.Add(new OutlawObjectiveEntry(name, objective, ssd));
@@ -98,8 +84,7 @@ public sealed class OutlawObjectivesCartridgeSystem : EntitySystem
         {
             var owner = item.OwningCharacter;
 
-            if (!item.Active
-                || TerminatingOrDeleted(uid)
+            if (TerminatingOrDeleted(uid)
                 || (!TerminatingOrDeleted(owner) && HasComp<OutlawObjectiveComponent>(owner)))
             {
                 continue;

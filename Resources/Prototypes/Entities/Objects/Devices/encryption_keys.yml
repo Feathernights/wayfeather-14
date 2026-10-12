@@ -243,7 +243,7 @@
 - type: entity
   parent: [EncryptionKey, BaseBMContraband] # Wayfarer: BaseSyndicateContraband<BaseBMContraband
   id: EncryptionKeySyndie
-  name: coldlight encryption key
+  name: blood-red encryption key
   categories: [ DoNotMap ] # Frontier
   description: An encryption key used by... wait... Who is owner of this chip?
   components:

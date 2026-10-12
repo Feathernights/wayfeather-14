@@ -641,7 +641,7 @@
 - type: entity
   parent: [ ClothingHeadHardsuitBase, ClothingHeadSuitWithLightBase ]
   id: ClothingHeadHelmetHardsuitSyndie
-  name: spinel hardsuit helmet # Wayfarer: blood-red<spinel
+  name: blood-red hardsuit helmet
   description: A heavily armored helmet designed for work in special operations. Property of Gorlex Marauders.
   components:
   - type: Sprite
@@ -708,7 +708,7 @@
 - type: entity
   parent: [ ClothingHeadHardsuitBase, ClothingHeadSuitWithLightBase ]
   id: ClothingHeadHelmetHardsuitSyndieMedic
-  name: spinel medic hardsuit helmet # Wayfarer: blood-red<spinel
+  name: blood-red medic hardsuit helmet
   description: An advanced red hardsuit helmet specifically designed for field medic operations.
   components:
   - type: Sprite
@@ -767,8 +767,8 @@
 - type: entity
   parent: [ ClothingHeadHardsuitBase, ClothingHeadSuitWithLightBase ]
   id: ClothingHeadHelmetHardsuitSyndieElite
-  name: old ops helmet # Wayfarer: blood-red elite<old ops
-  description: An older version of the spinel hardsuit's helmet, with improved radiation resistance and fireproofing. You feel old looking at it. # Wayfarer: changed description
+  name: syndicate elite helmet
+  description: An elite version of the blood-red hardsuit's helmet, with improved radiation resistance and fireproofing. Property of Gorlex Marauders.
   components:
   - type: Sprite
     sprite: Clothing/Head/Hardsuits/syndieelite.rsi
@@ -839,8 +839,8 @@
 - type: entity
   parent: [ ClothingHeadHardsuitBase, ClothingHeadSuitWithLightBase ]
   id: ClothingHeadHelmetHardsuitSyndieCommander
-  name: spinel commander helmet # Wayfarer: Syndicate<Spinel
-  description: A bulked up version of the spinel hardsuit's helmet, purpose-built for the commander of an operative squad. Has significantly improved armor for those deadly front-lines firefights. # Wayfarer: Removed Syndicate, blood-red<Spinel
+  name: syndicate commander helmet
+  description: A bulked up version of the blood-red hardsuit's helmet, purpose-built for the commander of a syndicate operative squad. Has significantly improved armor for those deadly front-lines firefights.
   components:
   - type: Sprite
     sprite: Clothing/Head/Hardsuits/syndiecommander.rsi

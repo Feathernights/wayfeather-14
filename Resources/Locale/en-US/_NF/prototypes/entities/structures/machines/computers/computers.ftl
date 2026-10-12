@@ -52,12 +52,10 @@ ent-ComputerTabletopComms = communications computer
 ent-MobileComputerTabletopComms = communications computer
     .desc = A computer used to make sectorwide announcements via keyboard or change the alert level.
 
-# Wayfarer: Syndicate<Raider
-ent-SyndicateComputerComms = raider communications computer
+ent-SyndicateComputerComms = syndicate communications computer
     .desc = A computer capable of remotely hacking into the communications systems of the sector. Using this to make an announcement will alert the sector to your presence.
 
-# Wayfarer: Syndicate<Raider
-ent-SyndicateComputerTabletopComms = raider communications computer
+ent-SyndicateComputerTabletopComms = syndicate communications computer
     .desc = A computer capable of remotely hacking into the communications systems of the sector. Using this to make an announcement will alert the sector to your presence.
 
 ent-WizardComputerComms = wizard communications computer

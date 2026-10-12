@@ -88,7 +88,7 @@
 - type: entity
   parent: DrinkGlass
   id: DrinkSyndicateTea
-  suffix: sweet n' spicy tea # Wayfarer: changed suffix
+  suffix: syndie tea
   components:
   - type: SolutionContainerManager
     solutions:

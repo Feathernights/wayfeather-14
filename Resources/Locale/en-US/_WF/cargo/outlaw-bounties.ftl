@@ -1,8 +1,7 @@
 outlaw-bounty-ceramic-plates = Ceramic Armor Inserts
 outlaw-bounty-plasteel-plates = Plasteel Armor Inserts
 
-# Wayfarer: Syndicate<Spinel
-outlaw-bounty-syndie-hardsuit = Spinel Hardsuit (Any)
+outlaw-bounty-syndie-hardsuit = Blood-Red Hardsuit (Any)
 outlaw-bounty-wizard-hardsuit = Wizard Hardsuit
 outlaw-bounty-item-scafsuit = SCAF Combat Hardsuit
 outlaw-bounty-item-rdsuit = Experimental Research Hardsuit

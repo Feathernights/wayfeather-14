@@ -565,8 +565,8 @@
 - type: entity
   id: SyndicateElectricRangeMachineCircuitboard
   parent: BaseMachineCircuitboard
-  name: donk co. electric range machine board # Wayfarer: Syndicate<donk co.
-  description: A machine printed circuit board for a donk co. electric range. # Wayfarer: Syndicate<donk co.
+  name: syndicate electric range machine board
+  description: A machine printed circuit board for an syndicate electric range.
   components:
     - type: Sprite
       state: service

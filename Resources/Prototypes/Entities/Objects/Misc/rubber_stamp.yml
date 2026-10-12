@@ -220,7 +220,7 @@
     state: stamp-trader
 
 - type: entity
-  name: coldlight rubber stamp # Wayfarer: Syndicate<
+  name: syndicate rubber stamp
   parent: [RubberStampBase, BaseBMContraband] # Wayfarer: BaseSyndicateContraband<BaseBMContraband
   id: RubberStampSyndicate
   categories: [ DoNotMap ]

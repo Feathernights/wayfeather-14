@@ -61,8 +61,7 @@ shipyard-console-class-Medical = Medical
 shipyard-console-class-Civilian = Civilian
 shipyard-console-class-Kitchen = Kitchen
 # Antag
-# Wayfarer: Syndicate<Operative
-shipyard-console-class-Syndicate = Operative
+shipyard-console-class-Syndicate = Syndicate
 shipyard-console-class-Pirate = Pirate
 # CGP
 shipyard-console-class-Capital = Capital

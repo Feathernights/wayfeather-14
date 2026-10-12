@@ -96,7 +96,7 @@
 - type: entity
   parent: MonkeyCubeBox
   name: monkey cube box
-  suffix: Saboteur # Wayfarer: Syndicate<Saboteur
+  suffix: Syndicate
   id: SyndicateSpongeBox
   description: Drymate brand monkey cubes. Just add water!
   components:
@@ -111,7 +111,7 @@
 - type: entity
   parent: MonkeyCubeWrapped
   name: monkey cube
-  suffix: Wrapped, Operative # Wayfarer: Syndicate<Operative
+  suffix: Wrapped, Syndicate
   id: SyndicateSpongeWrapped
   components:
   - type: SpawnItemsOnUse

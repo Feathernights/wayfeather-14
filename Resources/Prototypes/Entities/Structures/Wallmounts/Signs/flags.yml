@@ -62,8 +62,8 @@
 - type: entity
   parent: BaseFlag
   id: SyndieFlag
-  name: rebel flag
-  description: Smells sweaty.
+  name: syndicate flag
+  description: Smells bloody. Death to NT!
   components:
   - type: Sprite
     state: syndie_flag
